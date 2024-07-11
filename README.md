@@ -3,7 +3,7 @@
 URL-Shortener-FastApi is a high-performance, lightweight URL-shortening service built with FastAPI, one of the fastest Python web frameworks. This project enables users to convert long URLs into short, easy-to-share links and provides the functionality to track and manage these shortened URLs efficiently.
 
 ### Features
-FastAPI Framework: Utilizes the high-performance capabilities of FastAPI for rapid response times and asynchronous processing.<br>  
+FastAPI Framework: Utilizes the high-performance capabilities of FastAPI for rapid response times and asynchronous processing.<br>
 URL Shortening: Converts long URLs into concise, shareable links.<br>
 Redirection: Automatically redirects users to the original URL when they visit the shortened link.<br>
 Analytics: Tracks usage statistics such as the number of clicks.<br>
